@@ -2,8 +2,13 @@
 content_type: resource
 description: "Problem set on designing a simulation and implementing a program that\
   \ uses classes. \r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-00-introduction-to-computer-science-and-programming-fall-2008/0589e2f1cd1125d31b3c9fc4b05b60cf_pset11.pdf
+file: /media/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/0589e2f1cd1125d31b3c9fc4b05b60cf_pset11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set 11: Simulating Robots'
 uid: 0589e2f1-cd11-25d3-1b3c-9fc4b05b60cf

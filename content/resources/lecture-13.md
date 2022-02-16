@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec13-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l13 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '13: Dynamic Programming: Overlapping Subproblems, Optimal Substructure'
 uid: 4bd33407-8fcb-c790-8b2c-dbb596999f9c
 video_files:
   archive_url: http://www.archive.org/download/MIT6.00F08/mit-6-00-f08-lec13_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-00-introduction-to-computer-science-and-programming-fall-2008/2e69afa54801574a8239e45f0a948ced_ZKBUu_ahSR4.vtt
+  video_captions_file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/2e69afa54801574a8239e45f0a948ced_ZKBUu_ahSR4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ZKBUu_ahSR4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-00-introduction-to-computer-science-and-programming-fall-2008/2c6be83c045ce22e0b869641c8e9de93_ZKBUu_ahSR4.pdf
+  video_transcript_file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/2c6be83c045ce22e0b869641c8e9de93_ZKBUu_ahSR4.pdf
 video_metadata:
   youtube_id: ZKBUu_ahSR4
 ---
