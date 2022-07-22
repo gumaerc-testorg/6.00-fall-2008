@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec11-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l11 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec11-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l11))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '11: Testing and Debugging'
 uid: dc783fd3-cd1c-7b04-bf45-9ffb13050b80
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Testing and debugging
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

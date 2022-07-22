@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec13-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l13 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec13-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l13))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '13: Dynamic Programming: Overlapping Subproblems, Optimal Substructure'
 uid: 4bd33407-8fcb-c790-8b2c-dbb596999f9c
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Dynamic programming: overlapping subproblems, optimal substructure
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec2 \"Open in a new window.\"))\
-  \  \nTranscript ([PDF](resources/6-00f08-l02 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec2))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l02))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '2: Branching, Conditionals, and Iteration'
 uid: 17e53a0c-487b-6583-c1be-48d0fbb69715
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Operators and operands; statements; branching, conditionals, and iteration
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

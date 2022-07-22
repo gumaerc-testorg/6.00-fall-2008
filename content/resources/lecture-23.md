@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec23-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l23 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec23-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l23))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '23: Stock Market Simulation'
 uid: 575617b3-ca2a-a029-c96f-3173c4177b9b
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Stock market simulation
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

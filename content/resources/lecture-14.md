@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec14-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l14 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec14-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l14))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '14: Introduction to Object-oriented Programming'
 uid: f475375e-58c9-d9ee-0352-51a78d0f12a0
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Analysis of knapsack problem, introduction to object-oriented programming
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec7 \"Open in a new window.\"))\
-  \  \nTranscript ([PDF](resources/6-00f08-l07 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec7))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l07))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '7: Lists and Mutability, Dictionaries, Introduction to Efficiency'
 uid: 5d72e8ed-8a72-cd1e-06a6-849f3fb9707c
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Lists and mutability, dictionaries, pseudocode, introduction to efficiency
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec8 \"Open in a new window.\"))\
-  \  \nTranscript ([PDF](resources/6-00f08-l08 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec8))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l08))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '8: Complexity: Log, Linear, Quadratic, Exponential Algorithms'
 uid: a8c71fad-4211-c68a-9134-da10d454f920
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Complexity; log, linear, quadratic, exponential algorithms
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

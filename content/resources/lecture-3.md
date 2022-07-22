@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec3 \"Open in a new window.\"))\
-  \  \nTranscript ([PDF](resources/6-00f08-l03 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec3))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l03))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '3: Common Code Patterns: Iterative Programs'
 uid: 47da00c9-fbaf-ffb0-16dd-0d6498b4831c
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Common code patterns: iterative programs
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

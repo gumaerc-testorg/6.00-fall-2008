@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec21-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l21 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec21-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l21))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '21: Validating Simulation Results, Curve Fitting, Linear Regression'
 uid: 4733e53d-2b79-062c-086b-6e5d8e3d2f99
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Validating simulation results, curve fitting, linear regression
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

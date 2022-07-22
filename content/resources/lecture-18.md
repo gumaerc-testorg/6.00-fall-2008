@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec18-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l18 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec18-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l18))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '18: Presenting Simulation Results, Pylab, Plotting'
 uid: f7049c51-f984-f3db-da4a-6843881cad0a
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Presenting simulation results, Pylab, plotting
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+

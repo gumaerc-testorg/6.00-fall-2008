@@ -1,17 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Handout ([PDF](resources/lec10-1 \"Open in a new window.\"\
-  ))  \nTranscript ([PDF](resources/6-00f08-l10 \"Open in a new window.\"))"
+related_resources_text: "Handout ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/lec10-1))\
+  \  \nTranscript ([PDF](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/resources/6-00f08-l10))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '10: Divide and Conquer Methods, Merge Sort, Exceptions'
 uid: 8fb79950-ff59-e689-8e46-bd7cfa647f89
 video_files:
@@ -26,3 +30,4 @@ video_metadata:
 **Topics covered:** Divide and conquer methods, merge sort, exceptions
 
 **Instructor:** Prof. Eric Grimson, Prof. John Guttag
+
