@@ -3,6 +3,7 @@ content_type: page
 description: This syllabus section provides information on course goals, meeting times,
   prerequisites, the course textbook, lecture and recitation attendance, homework
   and quizzes, collaboration policy, and grading.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -12,7 +13,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 Course Meeting Times
 --------------------
 

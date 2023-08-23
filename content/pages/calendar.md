@@ -2,6 +2,7 @@
 content_type: page
 description: This calendar section provides the schedule of lecture topics, quizzes,
   and due dates for assignments.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -11,7 +12,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
