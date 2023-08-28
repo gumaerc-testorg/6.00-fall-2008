@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: This section provides video lectures from the course.
+draft: true
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -39,7 +40,4 @@ videos:
   - d2a08749-adc3-6cfd-084f-fa85b0322418
   website: 6-00-introduction-to-computer-science-and-programming-fall-2008
 ---
-
-
 {{< video-gallery "b457f11c-0f1c-37c2-8eed-f0fe76d14a82" >}}
-

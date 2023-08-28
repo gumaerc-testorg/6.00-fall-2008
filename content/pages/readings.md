@@ -2,6 +2,7 @@
 content_type: page
 description: This section provides a set of online resources designed to accompany
   the course lectures.
+draft: true
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,7 +13,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 Below, you'll find a set of online resources designed to accompany the 6.00 lectures. We've found that the readings are generally more effective when done after the lecture, though you are of course welcome to read them at any time.
 
 General References

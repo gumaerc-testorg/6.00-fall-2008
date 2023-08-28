@@ -3,6 +3,7 @@ content_type: page
 description: This section contains sample problems and solutions for the two quizzes
   during the semester. For the final exam (also known as quiz 3), solutions are not
   available.
+draft: true
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -13,7 +14,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 This section contains sample problems and solutions for the two quizzes during the semester. For the final exam (also known as quiz 3), solutions are not available. Students were also given a code sample to study in preparation for the final exam.
 
 {{< tableopen >}}
