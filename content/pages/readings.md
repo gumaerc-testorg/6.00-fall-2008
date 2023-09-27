@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a set of online resources designed to accompany
+  the course lectures.
+draft: true
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 9bc93929-36ac-d9b0-f975-ae4d5ca38bf5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
 Below, you'll find a set of online resources designed to accompany the 6.00 lectures. We've found that the readings are generally more effective when done after the lecture, though you are of course welcome to read them at any time.
 
 General References
@@ -20,7 +26,7 @@ An updated version of the textbook is also available:
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. MIT Press, 2016. ISBN: 9780262529624.
 
-If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
 
 [Python Programming](http://en.wikibooks.org/wiki/Python_Programming)
 
@@ -62,7 +68,7 @@ Lecture 6
 Lectures 7-8
 ------------
 
-*   Asymptotic notation: Section 3 from the Spring 2005 6.042 lecture notes on OCW ([PDF]({{< baseurl >}}/resources/l11_sums2))
+*   Asymptotic notation: Section 3 from the Spring 2005 6.042 lecture notes on OCW ({{% resource_link ed6f464f-a5d1-318b-66e7-92709d447dee "PDF" %}})
 *   Order of growth: [Sections 2.1 and 2.2](http://www.greenteapress.com/compmod/html/book003.html) from _Computational Modeling and Complexity Science_
 *   Binary search: Wikipedia article on [binary search](http://en.wikipedia.org/wiki/Binary_search#Implementations) (focus on the recursive implementation in Section 4)
 

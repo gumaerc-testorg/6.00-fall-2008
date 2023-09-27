@@ -1,11 +1,18 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  prerequisites, the course textbook, lecture and recitation attendance, homework
+  and quizzes, collaboration policy, and grading.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c1f60ec7-ee6f-daf7-9fce-8f9efe4eacbc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
 Course Meeting Times
 --------------------
 
@@ -38,7 +45,7 @@ A new edition of the textbook is now available. However, there may be some discr
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262525008) Guttag, John. _Introduction to Computation and Programming Using Python_. Revised and expanded edition. MIT Press, 2013. ISBN: 9780262525008.
 
-If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
 
 Lecture and Recitation Attendance
 ---------------------------------
