@@ -28,7 +28,7 @@
     "website": "6-00-introduction-to-computer-science-and-programming-fall-2008"
   },
   "course_title": "Introduction to Computer Science and Programming",
-  "course_description": "6.00 Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on [DSpace \u2013 MIT\u2019s digital repository](https://dspace.mit.edu/handle/1721.1/150580). Please see the list of\u00a0[introductory programming courses](https://ocw.mit.edu/collections/introductory-programming/) and other programming courses from recent years.",
+  "course_description": "6.00 Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on {{% resource_link \"67520695-1753-4e7d-ace0-6867cb8fcff8\" \"DSpace \u2013 MIT\u2019s digital repository\" %}}. Please see the list of\u00a0{{% resource_link \"f38896bb-acde-4755-a4a3-c208cad8f592\" \"introductory programming courses\" %}} and other programming courses from recent years.",
   "department_numbers": [
     "6"
   ],
