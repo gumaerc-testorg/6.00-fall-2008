@@ -39,13 +39,13 @@ Textbook
 
 The original textbook for 6.00 and the course lectures parallel each other, though there is more detail in the book about some topics. The book is NOT required. We will not be referring to it in assignments or depending upon it to cover holes in the lectures.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262519632) Guttag, John. _Introduction to Computation and Programming Using Python_. Spring 2013 edition. MIT Press, 2013. ISBN: 9780262519632.
+{{% resource_link "4678eb1b-a2bc-4c74-ac7c-ae5467af90e6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Guttag, John. _Introduction to Computation and Programming Using Python_. Spring 2013 edition. MIT Press, 2013. ISBN: 9780262519632.
 
 A new edition of the textbook is now available. However, there may be some discrepancies between the original course lectures included on this course site and the sections in this revised and expanded edition of the textbook.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262525008) Guttag, John. _Introduction to Computation and Programming Using Python_. Revised and expanded edition. MIT Press, 2013. ISBN: 9780262525008.
+{{% resource_link "531a0a7e-5746-457e-9b26-e0e5e702f69c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Guttag, John. _Introduction to Computation and Programming Using Python_. Revised and expanded edition. MIT Press, 2013. ISBN: 9780262525008.
 
-If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as {{% resource_link "1ada8ce2-47e4-4a22-ba52-f320fee37db5" "_How to Think Like a Computer Scientist_" %}} or {{% resource_link "d9d1eeb2-87df-429a-a4f4-999b35afd4ab" "_An Introduction to Python (PDF)_" %}}.
 
 Lecture and Recitation Attendance
 ---------------------------------
