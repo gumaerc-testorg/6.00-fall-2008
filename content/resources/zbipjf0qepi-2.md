@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/2034e22638145383b0450a86e19a5ae2_ZbIpjf0QEPI.vtt
+file_size: 55665
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

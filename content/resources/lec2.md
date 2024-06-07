@@ -2,6 +2,7 @@
 content_type: resource
 description: Class handout from a lecture on branching, conditionals, and iteration.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/4b7a8da16974c3cf1e2646bf2d96224f_lec2.pdf
+file_size: 25491
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

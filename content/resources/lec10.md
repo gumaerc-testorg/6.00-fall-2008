@@ -3,6 +3,7 @@ content_type: resource
 description: Thumbnail image accompanying a video lecture on divide and conquer methods,
   merge sort, and exceptions.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/ee4270a79aea9f313b5fad0753c45bd8_lec10.jpg
+file_size: 3643
 file_type: image/jpeg
 image_metadata:
   caption: ''

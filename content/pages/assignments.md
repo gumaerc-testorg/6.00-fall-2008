@@ -18,9 +18,9 @@ Getting Started
 
 Getting Started: Python and IDLE ({{% resource_link b29f4dce-1bad-3a66-0842-efb674f1c928 "PDF" %}})
 
-If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, {{% resource_link "471dd1cd-b25e-4d51-8663-076a128e3a8a" "available here" %}}. You should download and install version 2.5.4.
+If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, [available here](http://python.org/download/). You should download and install version 2.5.4.
 
-TECHNICAL NOTE: Some modern operating systems, particularly OS X El Capitan, no longer allow Python 2.5.4 to be installed. If that's the case, you may instead install {{% resource_link "6e00dc47-ccb1-42d8-ac34-dbfa04a30507" "Anaconda" %}}, which includes standard Python as well as numpy, pylab, and many other extensions. Please install Anaconda for Python 2.7.
+TECHNICAL NOTE: Some modern operating systems, particularly OS X El Capitan, no longer allow Python 2.5.4 to be installed. If that's the case, you may instead install [Anaconda](https://www.anaconda.com/products/individual), which includes standard Python as well as numpy, pylab, and many other extensions. Please install Anaconda for Python 2.7.
 
 WARNING: On the Python homepage, the latest version available for download is actually 3.5. Do not install this! This version is not backwards compatible with the code that you'll be writing in this course (for example, you have to type print("test") instead of print test.)
 

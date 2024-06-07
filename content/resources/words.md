@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting data file for Problems Sets 5, 6, and 10.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/678ff0b0153fc3dd5280587679fd84d8_words.txt
+file_size: 648783
 file_type: text/plain
 learning_resource_types:
 - Assignments

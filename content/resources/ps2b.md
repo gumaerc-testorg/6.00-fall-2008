@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting template of Python code for Problem 4 of Problem Set 2.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/87550d6a9b3c98afffba56f1512f5274_ps2b.py
+file_size: 468
 file_type: text/plain
 learning_resource_types:
 - Assignments

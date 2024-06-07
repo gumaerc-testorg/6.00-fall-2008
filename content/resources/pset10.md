@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on coding a graphical word game.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/49ea9b7484099d0159831c394f34f69c_pset10.pdf
+file_size: 92135
 file_type: application/pdf
 learning_resource_types:
 - Assignments
