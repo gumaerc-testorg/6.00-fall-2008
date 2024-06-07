@@ -1,9 +1,9 @@
 leftnav:
-- identifier: 5f20559f-62ba-4468-ab5f-04523a572094
+- identifier: 25adc482-a1f9-4cf2-b666-b280de8a240e
   name: Introductory Programming Courses
-  pageRef: /external-resources/introductory-programming-courses_5f20559f-62ba-4468-ab5f-04523a572094
+  pageRef: /external-resources/introductory-programming-courses_25adc482-a1f9-4cf2-b666-b280de8a240e
   weight: 10
-- identifier: 894b5794-8b3d-403a-bac3-06bf8b6bcf9b
-  name: Archived D-Space Course
-  pageRef: /external-resources/archived-d-space-course_894b5794-8b3d-403a-bac3-06bf8b6bcf9b
+- identifier: ecaeb248-fdb6-439d-8750-21c1c25104e8
+  name: Archived DSpace Course
+  pageRef: /external-resources/archived-d-space-course_ecaeb248-fdb6-439d-8750-21c1c25104e8
   weight: 20
