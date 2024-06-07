@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting Python graphical user interface code for Problems Set 10.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/e7df24a28aaec8ebf602f17948b9daa8_ps10_gui.py
+file_size: 10507
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Thumbnail image accompanying a video lecture on normal, uniform, and
   exponential distributions.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/880023562a6fef485b60f09215566514_lec22.jpg
+file_size: 3687
 file_type: image/jpeg
 image_metadata:
   caption: ''

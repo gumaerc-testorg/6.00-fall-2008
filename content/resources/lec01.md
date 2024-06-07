@@ -4,6 +4,7 @@ description: 'Thumbnail image accompanying an introductory video lecture on comp
   science and programming. Topics include: introduction and hoals, data types, operators,
   and variables.'
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/949608fe2d10f04f7a7315696a6af9d5_lec01.jpg
+file_size: 3685
 file_type: image/jpeg
 image_metadata:
   caption: ''

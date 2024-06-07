@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting Python code for Problems Set 6.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/8f7d93685b2af15a507b1a3e715e94a2_ps6.py
+file_size: 7545
 file_type: text/plain
 learning_resource_types:
 - Assignments

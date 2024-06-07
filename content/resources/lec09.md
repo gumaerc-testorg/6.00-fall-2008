@@ -3,6 +3,7 @@ content_type: resource
 description: Thumbnail image accompanying a video lecture on binary search, and bubble
   and selection sorts.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/81e0ba56a2f33c3dbd144340630a71e2_lec09.jpg
+file_size: 3596
 file_type: image/jpeg
 image_metadata:
   caption: ''

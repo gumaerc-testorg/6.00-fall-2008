@@ -3,6 +3,7 @@ content_type: resource
 description: Thumbnail image accompanying a video lecture on abstract data types,
   classes, and methods.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/8ae83878a73764fbb19af378340ac786_lec15.jpg
+file_size: 3658
 file_type: image/jpeg
 image_metadata:
   caption: ''
