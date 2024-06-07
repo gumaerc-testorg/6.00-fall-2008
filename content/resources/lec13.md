@@ -3,6 +3,7 @@ content_type: resource
 description: Thumbnail image accompanying a video lecture on dynamic programming,
   overlapping subproblems, and optimal substructure.
 file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/04ed23c02ccaaaf5ad710201cdc32d94_lec13.jpg
+file_size: 3632
 file_type: image/jpeg
 image_metadata:
   caption: ''
