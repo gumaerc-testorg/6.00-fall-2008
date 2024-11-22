@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a link to buy the course text from the MIT Press.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/4a983a2f71920191ec54077d9d38243e_mp_logo.gif
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/4a983a2f71920191ec54077d9d38243e_mp_logo.gif
 file_size: 1637
 file_type: image/gif
 image_metadata:
