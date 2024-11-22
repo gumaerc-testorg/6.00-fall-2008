@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on sums, approximations, block stacking, asymptotic notation,
   and the factorial function.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/ed6f464fa5d1318b66e792709d447dee_l11_sums2.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/ed6f464fa5d1318b66e792709d447dee_l11_sums2.pdf
 file_size: 254795
 file_type: application/pdf
 learning_resource_types:

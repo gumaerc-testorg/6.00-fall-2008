@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting Python code for Problems Set 5.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/63d4635603d21439064559e39fe50eed_ps5_ghost.py
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/63d4635603d21439064559e39fe50eed_ps5_ghost.py
 file_size: 1411
 file_type: text/plain
 learning_resource_types:
