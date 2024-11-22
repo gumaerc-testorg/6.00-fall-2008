@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting data file for Problems Set 9.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/25995745d6fc211df42f9485592ff037_shapes.txt
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/25995745d6fc211df42f9485592ff037_shapes.txt
 file_size: 193
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample quiz questions computer science and programming.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/06a2385ea259cc3de48fc3c8b7605516_quiz1.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/06a2385ea259cc3de48fc3c8b7605516_quiz1.pdf
 file_size: 113175
 file_type: application/pdf
 learning_resource_types:

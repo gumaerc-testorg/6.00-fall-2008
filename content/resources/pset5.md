@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on programming word games.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/6ad16c676cdba597cd9db9520a8cf919_pset5.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/6ad16c676cdba597cd9db9520a8cf919_pset5.pdf
 file_size: 143745
 file_type: application/pdf
 learning_resource_types:
