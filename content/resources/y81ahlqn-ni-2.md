@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/39fed2fdaf7258c48b05aaf70d29bbfb_y81AhLQN-NI.vtt
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/39fed2fdaf7258c48b05aaf70d29bbfb_y81AhLQN-NI.vtt
 file_size: 74973
 file_type: application/x-subrip
 learning_resource_types: []

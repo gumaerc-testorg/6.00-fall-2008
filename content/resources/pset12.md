@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on designing and implementing a stochastic simulation of
   virus population dynamics.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/9f87ac0fa11a79f7c01c739418545616_pset12.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/9f87ac0fa11a79f7c01c739418545616_pset12.pdf
 file_size: 186932
 file_type: application/pdf
 learning_resource_types:

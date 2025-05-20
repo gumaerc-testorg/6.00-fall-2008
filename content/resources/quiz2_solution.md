@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to practice problems for a quiz on computer science and programming.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/3c9988f1acd545fb690a3ce9c48bfa83_quiz2_solution.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/3c9988f1acd545fb690a3ce9c48bfa83_quiz2_solution.pdf
 file_size: 63489
 file_type: application/pdf
 learning_resource_types:

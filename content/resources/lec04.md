@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on abstraction through functions
   and recursion.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/18b8c7b2c5081b3dcbc813bc68ed56e4_lec04.jpg
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/18b8c7b2c5081b3dcbc813bc68ed56e4_lec04.jpg
 file_size: 3654
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting Python code for Problems Set 10.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/48f5fc696b7961793e87b88b0ba99e77_ps10_test.py
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/48f5fc696b7961793e87b88b0ba99e77_ps10_test.py
 file_size: 1779
 file_type: text/plain
 learning_resource_types:

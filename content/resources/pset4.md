@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Problem set on successive approximation and data structures such as
   tuples and lists. '
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/edcb8f5eb775b49a8dc2b6ee93ebf3e3_pset4.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/edcb8f5eb775b49a8dc2b6ee93ebf3e3_pset4.pdf
 file_size: 93284
 file_type: application/pdf
 learning_resource_types:

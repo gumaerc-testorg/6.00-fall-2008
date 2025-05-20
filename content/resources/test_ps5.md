@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting Python test code for Problems Set 5.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/05c28618d8b5a14ced02fe6f8a2fa251_test_ps5.py
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/05c28618d8b5a14ced02fe6f8a2fa251_test_ps5.py
 file_size: 6598
 file_type: text/plain
 learning_resource_types:

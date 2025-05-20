@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on creating and using classes and methods, inheritance, and
   overriding methods.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/e860d0f03b93ba978f79aa3fb8d5a3ca_pset9.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/e860d0f03b93ba978f79aa3fb8d5a3ca_pset9.pdf
 file_size: 144211
 file_type: application/pdf
 learning_resource_types:

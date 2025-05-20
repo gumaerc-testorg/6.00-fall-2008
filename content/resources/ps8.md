@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting Python code for Problems Set 8.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/2e739760e4f59e4763109d1db3537083_ps8.py
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/2e739760e4f59e4763109d1db3537083_ps8.py
 file_size: 6039
 file_type: text/plain
 learning_resource_types:
