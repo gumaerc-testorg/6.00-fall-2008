@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on testing and debugging
   computer programs.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/59a781ae16ebbbdfb777344d7b8239e0_lec11.jpg
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/59a781ae16ebbbdfb777344d7b8239e0_lec11.jpg
 file_size: 3626
 file_type: image/jpeg
 image_metadata:

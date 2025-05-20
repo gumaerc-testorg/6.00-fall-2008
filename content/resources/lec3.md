@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout from a lecture on common code patterns and iterative programs.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/1d7d56e91d78df25562d6e869b8ff9da_lec3.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/1d7d56e91d78df25562d6e869b8ff9da_lec3.pdf
 file_size: 30460
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture on stock market simulation.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/beb6404b6b82fdae53d324704557f840_lec23.jpg
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/beb6404b6b82fdae53d324704557f840_lec23.jpg
 file_size: 3698
 file_type: image/jpeg
 image_metadata:

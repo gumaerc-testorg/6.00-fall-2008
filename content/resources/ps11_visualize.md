@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting Python code for visualizing simulated robots in Problem Set
   11.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/3527a132056b21d1a945ab002aa3fd68_ps11_visualize.py
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/3527a132056b21d1a945ab002aa3fd68_ps11_visualize.py
 file_size: 4585
 file_type: text/plain
 learning_resource_types:
