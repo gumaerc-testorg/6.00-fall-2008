@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on branching, conditionals,
   and iteration.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/95dfec1c15e0ff360dce00f6b3d00e22_lec02.jpg
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/95dfec1c15e0ff360dce00f6b3d00e22_lec02.jpg
 file_size: 3649
 file_type: image/jpeg
 image_metadata:

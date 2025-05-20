@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting Python code used as a template for submitting solutions to
   Problems Set 3.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/be6025128f34d3a0d32939bad6a20d6c_ps3_template.py
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/be6025128f34d3a0d32939bad6a20d6c_ps3_template.py
 file_size: 1394
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of topics covered in the final exam of the course.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/32b8dbf34c23f84dc405cf64d62455f1_final_topics.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/32b8dbf34c23f84dc405cf64d62455f1_final_topics.pdf
 file_size: 41170
 file_type: application/pdf
 learning_resource_types:

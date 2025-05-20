@@ -2,7 +2,7 @@
 content_type: resource
 description: "Problem set on designing a simulation and implementing a program that\
   \ uses classes. \r\n"
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/0589e2f1cd1125d31b3c9fc4b05b60cf_pset11.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/0589e2f1cd1125d31b3c9fc4b05b60cf_pset11.pdf
 file_size: 195091
 file_type: application/pdf
 learning_resource_types:

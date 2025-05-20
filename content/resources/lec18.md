@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on random walk simulation,
   PyLab, and plotting.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/32b23dcb19e5970eae49efd501c73f83_lec18.jpg
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/32b23dcb19e5970eae49efd501c73f83_lec18.jpg
 file_size: 3665
 file_type: image/jpeg
 image_metadata:

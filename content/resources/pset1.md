@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on using control flow in Python and formulating a computational
   solution to a problem.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/0da7848324c6dbd96bcf889bef729854_pset1.pdf
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/0da7848324c6dbd96bcf889bef729854_pset1.pdf
 file_size: 67413
 file_type: application/pdf
 learning_resource_types:

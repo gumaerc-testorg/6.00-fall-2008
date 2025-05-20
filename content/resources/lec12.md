@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on debugging, the Knapsack
   Problem, and an introduction to dynamic programming.
-file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/5baac4328fbb68ce9ba88608eae7ff84_lec12.jpg
+file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/5baac4328fbb68ce9ba88608eae7ff84_lec12.jpg
 file_size: 3655
 file_type: image/jpeg
 image_metadata:
