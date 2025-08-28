@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on encapsulation, inheritance,
   and shadowing.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/504fcb621d076e3a33606eb44b2bb6c8_lec16.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/504fcb621d076e3a33606eb44b2bb6c8_lec16.jpg
 file_size: 3661
 file_type: image/jpeg
 image_metadata:

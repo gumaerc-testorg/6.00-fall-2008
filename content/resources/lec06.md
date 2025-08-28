@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on bisection methods, Newton/Raphson,
   and introduction to lists.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/ff9f17a421c99bf4568f5adee3bbd1f9_lec06.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/ff9f17a421c99bf4568f5adee3bbd1f9_lec06.jpg
 file_size: 3632
 file_type: image/jpeg
 image_metadata:

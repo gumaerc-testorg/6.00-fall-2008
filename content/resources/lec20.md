@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on Monte Carlo simulations
   and estimating pi.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/9370887d52d73302690f88e15534de1a_lec20.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/9370887d52d73302690f88e15534de1a_lec20.jpg
 file_size: 3669
 file_type: image/jpeg
 image_metadata:
