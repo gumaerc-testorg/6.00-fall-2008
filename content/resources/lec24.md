@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture providing an overview of
   the course and discussion of what computer scientists do.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/51fe184258030898214ed0e84f4fd87e_lec24.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/51fe184258030898214ed0e84f4fd87e_lec24.jpg
 file_size: 3612
 file_type: image/jpeg
 image_metadata:

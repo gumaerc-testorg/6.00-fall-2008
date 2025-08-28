@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture on object-oriented programming.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/b384805e01ba9dd207537d9b5f6c0cc6_lec14.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/b384805e01ba9dd207537d9b5f6c0cc6_lec14.jpg
 file_size: 3657
 file_type: image/jpeg
 image_metadata:

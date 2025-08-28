@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on biased random walks,
   and distributions.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/79e081f73c3152387b1d7e9bfa4b489b_lec19.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/79e081f73c3152387b1d7e9bfa4b489b_lec19.jpg
 file_size: 3668
 file_type: image/jpeg
 image_metadata:

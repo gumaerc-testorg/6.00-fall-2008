@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on computational models
   and random walk simulation.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/a98ebaffeb819147b6d392b7f888e24b_lec17.jpg
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/a98ebaffeb819147b6d392b7f888e24b_lec17.jpg
 file_size: 3691
 file_type: image/jpeg
 image_metadata:

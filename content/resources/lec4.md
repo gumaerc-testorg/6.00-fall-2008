@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout from a lecture on abstraction through functions and recursion.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/423ff6680422f06988c270fc798b0042_lec4.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/423ff6680422f06988c270fc798b0042_lec4.pdf
 file_size: 34566
 file_type: application/pdf
 learning_resource_types: []

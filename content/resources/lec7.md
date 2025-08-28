@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout from a lecture on lists and mutability, dictionaries, and
   introduction to efficiency.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/a6b61120523ec9760f56bc09b54fe8c2_lec7.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/a6b61120523ec9760f56bc09b54fe8c2_lec7.pdf
 file_size: 32462
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout from a lecture on bisection methods, Newton/Raphson, and
   introduction to lists.
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/81db58b744f2a6ae54182427cf6151e5_lec6.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/81db58b744f2a6ae54182427cf6151e5_lec6.pdf
 file_size: 106233
 file_type: application/pdf
 learning_resource_types: []
