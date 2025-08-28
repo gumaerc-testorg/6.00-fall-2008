@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Class handout from a lecture on complexity: log, linear, quadratic,
   and exponential algorithms.'
-file: /courses/6-00-introduction-to-computer-science-and-programming-fall-2008/4f9854016ebdb129c7b4df29cb8b1815_lec8.pdf
+file: /ol-ocw-studio-app/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/4f9854016ebdb129c7b4df29cb8b1815_lec8.pdf
 file_size: 32461
 file_type: application/pdf
 learning_resource_types: []
