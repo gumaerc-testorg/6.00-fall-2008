@@ -5,7 +5,9 @@ external_url: https://www.lbl.gov/
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: valid
 title: Lawrence Berkeley National Laboratory
 uid: ef853ea7-5c8e-43e7-8134-a34258bdbb8e
+url_status_code: 200
 wayback_url: https://web.archive.org/web/20250909141023/https://www.lbl.gov/
 ---
